@@ -1,2 +1,1 @@
-# Calculadora200Percent
-CalculadoramaisAtualizadadeotdas
+# Calculadora100percent
